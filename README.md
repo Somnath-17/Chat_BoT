@@ -2,14 +2,14 @@
 
 This project is a simple chatbot application built with **React** for the frontend and **Socket.io** for real-time communication between the client and the server. The chatbot allows users to send and receive messages instantly, simulating a real-time chat experience.
 
-## Features
+## Features:
 
 - Real-time messaging using Socket.io
 - Interactive chat interface built with React
 - Simple and clean UI
 - Easy to set up and run locally
 
-## Technologies Used
+## Technologies Used:
 
 - [React](https://reactjs.org/)
 - [Socket.io](https://socket.io/)
