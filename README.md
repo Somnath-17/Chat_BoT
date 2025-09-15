@@ -9,7 +9,7 @@ This project is a simple chatbot application built with **React** for the fronte
 - Simple and clean UI
 - Easy to set up and run locally
 
-## Technologies Used
+## Technologies that used
 
 - [React](https://reactjs.org/)
 - [Socket.io](https://socket.io/)
